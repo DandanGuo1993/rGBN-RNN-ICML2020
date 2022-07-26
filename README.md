@@ -23,3 +23,17 @@ The stoplist is concluded in our project, named as 'en.txt'.
 Note:
 We provid a short text 'example.txt' from the traning text of appnews dataset, which can be directly run using our code.
 If you run this code in Windows system , you may need to install visual studio firstly , and change '***.so'  to  '***.dll'  files in  'GBN_sampler.py'.
+
+
+If you find this repo useful to your project, please cite it with following bib:
+
+@inproceedings{guo2020recurrent,
+  title={Recurrent Hierarchical Topic-Guided RNN for Language Generation},
+  author={Guo, Dandan and Chen, Bo and Lu, Ruiying and Zhou, Mingyuan},
+  booktitle={ICML 2020: International Conference on Machine Learning},
+  year={2020},
+  url={http://proceedings.mlr.press/v119/guo20a.html},
+  pdf={https://arxiv.org/pdf/1912.10337.pdf},
+  url_arxiv={https://arxiv.org/abs/1912.10337},
+  url_code={https://github.com/Dan123dan/rGBN-RNN},
+}
